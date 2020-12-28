@@ -1,6 +1,4 @@
-HW8 - Mark Edward Mossien
-
-DODGE THE OBJECTS - readme
+DODGE THE OBJECTS
 
 - A game where you are a square, and you must dodge the objects!
 - Use the arrow keys to move Up, Down, Left, Right
